@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">API_test</string>
+    <string name="edit_text">Enter a Star Wars character</string>
+    <string name="button_text">Search</string>
+</resources>
